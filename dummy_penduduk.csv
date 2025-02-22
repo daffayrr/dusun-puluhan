@@ -1,0 +1,101 @@
+id,nama,nik,kk,alamat,RT,tanggal_lahir,pekerjaan,created_at
+1,"Salman Rahmawati, M.Kom.",2268872926865910,6490727515330047,"Jalan Gardujati No. 2 Kota Administrasi Jakarta Barat, Kalimantan Tengah 86812",5,1965-02-28,Engineering geologist,2025-02-14 20:58:07
+2,Hesti Andriani,5610861766855523,4646834304181946,"Jalan Rajawali Barat No. 6 Cimahi, ST 50830",9,1955-04-22,Database administrator,2025-02-14 20:58:07
+3,"Ir. Ulya Kusmawati, S.Psi",4556712550093862,2529129302011579,"Jl. Suryakencana No. 515 Tasikmalaya, KU 54288",7,1996-10-23,Garment/textile technologist,2025-02-14 20:58:07
+4,"H. Darmana Pangestu, S.E.",4267983801698881,234680403046685,"Gang Gedebage Selatan No. 421 Yogyakarta, BA 91478",6,1973-09-07,"Buyer, industrial",2025-02-14 20:58:07
+5,Mumpuni Kurniawan,1665298043774171,4146832287231467,"Gang Cikutra Timur No. 0 Langsa, JB 68705",6,1975-06-12,Cytogeneticist,2025-02-14 20:58:07
+6,Ghaliyati Wibisono,5070872841774075,1839796675183104,"Gg. Yos Sudarso No. 474 Banjar, DI Yogyakarta 58940",6,2003-04-13,Medical sales representative,2025-02-14 20:58:07
+7,"R.A. Wani Simbolon, S.H.",3116187681707489,649877171949117,"Gg. HOS. Cokroaminoto No. 9 Sungai Penuh, JA 22770",5,1964-07-31,"Engineer, technical sales",2025-02-14 20:58:07
+8,"Sutan Emong Agustina, S.Pd",5340594707351784,6614697467705329,"Gang Joyoboyo No. 738 Cilegon, JT 10486",5,2001-01-23,"Journalist, broadcasting",2025-02-14 20:58:07
+9,Mulyono Nababan,6756107896506691,144120015095446,"Gg. Soekarno Hatta No. 55 Bau-Bau, KU 95161",4,1995-11-04,Food technologist,2025-02-14 20:58:07
+10,Puti Dian Santoso,2140730362467568,9527927102131955,"Jl. Suniaraja No. 411 Banjarmasin, KS 79226",8,1991-09-19,Retail banker,2025-02-14 20:58:07
+11,Almira Wacana,8864242343742547,7097469094819971,"Jl. Cikutra Timur No. 6 Metro, SS 57165",7,1955-04-02,Market researcher,2025-02-14 20:58:07
+12,"Mujur Prastuti, M.Ak",4616438640297879,3188302313871975,"Gang Indragiri No. 14 Bukittinggi, Sumatera Utara 69295",4,1983-02-20,Software engineer,2025-02-14 20:58:07
+13,Padma Sitompul,1385793744331761,5875662654634466,"Gang Rajiman No. 321 Palu, Banten 80748",5,1980-07-29,Newspaper journalist,2025-02-14 20:58:07
+14,Drs. Faizah Marpaung,6623945724875978,21119629639239,"Jl. Pacuan Kuda No. 569 Bontang, KS 71456",4,1953-03-30,"Administrator, charities/voluntary organisations",2025-02-14 20:58:07
+15,"Ir. Puti Wijaya, S.T.",4104008315316019,8947443412744756,"Jl. Rumah Sakit No. 77 Tasikmalaya, PA 14214",1,1977-01-03,"Secretary, company",2025-02-14 20:58:07
+16,"Limar Sirait, M.Pd",4967973834878683,134862935286844,"Gg. Ahmad Dahlan No. 18 Makassar, Jawa Barat 00451",8,1986-07-09,Herbalist,2025-02-14 20:58:07
+17,"Dt. Hamzah Wijaya, S.Sos",7617371971127993,2968657735833397,"Gg. Joyoboyo No. 4 Balikpapan, Riau 91314",6,1973-06-21,Chief Marketing Officer,2025-02-14 20:58:07
+18,"Siti Nasyiah, S.H.",3794142155815919,735489547892327,"Jl. Tebet Barat Dalam No. 69 Bekasi, Kepulauan Bangka Belitung 55367",4,1950-10-25,"Loss adjuster, chartered",2025-02-14 20:58:07
+19,Yance Rajata,480067390092510,5760965736678856,"Jl. BKR No. 821 Kediri, Aceh 30355",9,1968-07-10,Financial trader,2025-02-14 20:58:07
+20,Salwa Hariyah,3564997241614385,3414483233614174,"Jl. Raya Setiabudhi No. 399 Bukittinggi, Kalimantan Utara 59634",5,1966-05-02,Regulatory affairs officer,2025-02-14 20:58:07
+21,Cengkal Pertiwi,6705714690585004,2808997179326856,"Gang Kapten Muslihat No. 6 Bengkulu, SR 93680",3,1946-09-22,"Psychologist, clinical",2025-02-14 20:58:07
+22,T. Praba Uyainah,3830513655808439,4899089074706003,"Gg. Raya Ujungberung No. 07 Sorong, KI 20058",4,1993-06-19,"Administrator, Civil Service",2025-02-14 20:58:07
+23,"dr. Indah Oktaviani, S.Pt",2777190523284777,4616937265351564,"Jalan Otto Iskandardinata No. 05 Tasikmalaya, BT 20852",5,1999-07-25,Aeronautical engineer,2025-02-14 20:58:07
+24,Citra Handayani,4253145238816678,4334014082765595,"Gang Pelajar Pejuang No. 74 Banjarmasin, JB 81179",3,1992-02-25,Physiological scientist,2025-02-14 20:58:07
+25,Atmaja Hidayanto,3631553875138117,7847454540532127,"Jl. Ahmad Yani No. 6 Madiun, Jawa Barat 40491",2,1976-11-05,Financial trader,2025-02-14 20:58:07
+26,Puti Cinthia Firmansyah,2819830174037812,7575844777171224,"Gg. Erlangga No. 070 Meulaboh, SU 23457",4,1980-01-16,Tourist information centre manager,2025-02-14 20:58:07
+27,R.A. Suci Purwanti,5113511820271483,7804499998558514,"Jalan Moch. Ramdan No. 3 Surabaya, BT 50462",5,1959-08-19,Exercise physiologist,2025-02-14 20:58:07
+28,Balamantri Maheswara,3429656326889994,8866889096329979,"Gg. Bangka Raya No. 8 Madiun, SB 18753",7,1957-12-22,"Doctor, hospital",2025-02-14 20:58:07
+29,"Puti Safitri, S.Psi",2960497107715886,9642807187955323,"Jl. Suniaraja No. 3 Purwokerto, RI 86714",9,1964-07-17,Commissioning editor,2025-02-14 20:58:07
+30,"Mulya Hastuti, S.Pd",2933460345095075,1474505707193121,"Gg. Raya Ujungberung No. 998 Bitung, Sumatera Barat 61850",4,1966-09-24,Publishing rights manager,2025-02-14 20:58:07
+31,Mustika Januar,573378606445529,6727826715076043,"Gang Pasir Koja No. 2 Manado, NT 47840",1,1999-04-13,Nutritional therapist,2025-02-14 20:58:07
+32,"Cut Ayu Pradana, S.E.I",460822444811791,7855896109857879,"Jl. Pasteur No. 53 Padang Sidempuan, Sulawesi Tengah 92101",6,1949-03-26,Firefighter,2025-02-14 20:58:07
+33,Latika Rahimah,3386049937548602,2647618646987282,"Gg. Rajiman No. 2 Bontang, LA 78940",4,1996-08-16,Environmental consultant,2025-02-14 20:58:07
+34,Ella Widodo,5723661710024963,7332965838010760,"Gg. Indragiri No. 73 Padangpanjang, Nusa Tenggara Barat 20148",3,1960-01-21,Building surveyor,2025-02-14 20:58:07
+35,Kuncara Jailani,6951551147279026,500237986496069,"Gang M.H Thamrin No. 6 Jambi, KS 32775",8,1977-06-17,Plant breeder/geneticist,2025-02-14 20:58:07
+36,drg. Clara Habibi,5535319528736993,2549224299544084,"Gg. Dr. Djunjunan No. 0 Pariaman, SG 01251",3,1974-01-15,Visual merchandiser,2025-02-14 20:58:07
+37,Sabrina Simbolon,2937570613215475,3809951054430592,"Gg. Dr. Djunjunan No. 421 Denpasar, PA 48755",6,1980-09-12,Osteopath,2025-02-14 20:58:07
+38,Rusman Suartini,1406921773074525,3440675607255235,"Gg. Ahmad Dahlan No. 9 Cilegon, Sulawesi Selatan 14084",1,2000-02-16,"Scientist, clinical (histocompatibility and immunogenetics)",2025-02-14 20:58:07
+39,Vera Wastuti,127110514982724,7968115492998716,"Jalan Erlangga No. 701 Serang, BA 70073",7,1951-09-27,"Scientist, forensic",2025-02-14 20:58:07
+40,Viktor Gunarto,2300344012301002,2092395355519483,"Gg. Erlangga No. 33 Balikpapan, Riau 73520",1,1991-09-03,Printmaker,2025-02-14 20:58:07
+41,Cinthia Anggriawan,6198499769284931,3637712606608149,"Jl. Gegerkalong Hilir No. 0 Pagaralam, Sulawesi Tengah 33619",4,1982-06-26,"Buyer, retail",2025-02-14 20:58:07
+42,Keisha Puspita,253405745210578,8456316999373585,"Gang Siliwangi No. 49 Jayapura, Papua Barat 85128",2,1996-01-19,"Education officer, environmental",2025-02-14 20:58:07
+43,Cut Indah Prastuti,5808002333422774,2462169635974092,"Jl. Rungkut Industri No. 8 Malang, Sulawesi Tenggara 39588",6,1998-01-15,Dealer,2025-02-14 20:58:07
+44,Saadat Hassanah,8393052518775437,6660425245047631,"Jalan Kendalsari No. 21 Blitar, Sumatera Selatan 98723",7,1982-07-25,Patent examiner,2025-02-14 20:58:07
+45,"Vicky Sihotang, S.Gz",6070770588680078,3009943385376597,"Jalan BKR No. 604 Bukittinggi, SB 33135",4,1957-07-15,Diagnostic radiographer,2025-02-14 20:58:07
+46,Jati Halimah,8079190044936505,6880612112696888,"Gg. Cihampelas No. 95 Langsa, Jawa Barat 06972",5,1987-01-10,Special effects artist,2025-02-14 20:58:07
+47,Murti Hariyah,138917322717319,5523879246347572,"Gg. Ciwastra No. 212 Malang, Aceh 23352",8,1985-11-29,"Engineer, agricultural",2025-02-14 20:58:07
+48,"Drs. Eka Adriansyah, M.Ak",4328447323543110,1522434505451750,"Jalan W.R. Supratman No. 2 Salatiga, Kepulauan Bangka Belitung 30458",2,1968-10-18,Metallurgist,2025-02-14 20:58:07
+49,Martaka Najmudin,7872177439683580,7537820905183175,"Gg. H.J Maemunah No. 44 Kota Administrasi Jakarta Utara, BT 99174",2,1979-02-07,Phytotherapist,2025-02-14 20:58:07
+50,Cahyo Widiastuti,3924039100763742,1593524401986169,"Jalan Pelajar Pejuang No. 83 Bengkulu, Banten 76692",1,1968-09-24,Research scientist (maths),2025-02-14 20:58:07
+51,"Prabowo Nasyiah, S.IP",6433805645758248,2960594512458999,"Jl. KH Amin Jasuta No. 391 Samarinda, SU 73626",1,1970-12-03,Information officer,2025-02-14 20:58:07
+52,"Jinawi Uwais, S.Psi",6796870651982632,4322736686661730,"Jl. M.T Haryono No. 41 Banjarmasin, JK 67346",4,1972-04-16,"Lighting technician, broadcasting/film/video",2025-02-14 20:58:07
+53,Kenari Sirait,7146809685725383,290694191572983,"Jl. Raya Setiabudhi No. 33 Padang, SR 24308",1,1992-12-26,Engineering geologist,2025-02-14 20:58:07
+54,"Heru Ramadan, M.Pd",6866310123203890,6403905592390387,"Jl. Merdeka No. 804 Purwokerto, Bali 29354",6,1974-04-10,Horticultural consultant,2025-02-14 20:58:07
+55,Laras Hutapea,5745926878334595,4021886414098447,"Jalan Kutisari Selatan No. 773 Madiun, YO 56955",9,1946-09-25,Recycling officer,2025-02-14 20:58:07
+56,Humaira Lailasari,9108154029704944,5032817644303087,"Jl. Asia Afrika No. 605 Bandung, Sulawesi Barat 01819",4,1965-07-10,Holiday representative,2025-02-14 20:58:07
+57,Lulut Sihombing,6975671205487717,2072628216624700,"Gang Pasirkoja No. 2 Kupang, NT 80245",4,1978-12-03,"Psychologist, forensic",2025-02-14 20:58:07
+58,Ratna Kusmawati,8247154980959091,4793089654529548,"Gang Cihampelas No. 77 Tebingtinggi, Jawa Timur 17376",1,1954-11-27,"Production assistant, television",2025-02-14 20:58:07
+59,"R.M. Akarsana Haryanti, M.TI.",4011082963032871,2235261357018461,"Gg. Jayawijaya No. 528 Banjar, Sumatera Barat 21692",8,1958-01-17,Control and instrumentation engineer,2025-02-14 20:58:07
+60,Cengkal Rajasa,581832953320570,5960261394942433,"Jl. Merdeka No. 400 Tual, DKI Jakarta 15257",6,1946-02-24,Petroleum engineer,2025-02-14 20:58:07
+61,Mujur Damanik,3860324859756684,2239005818658205,"Gang Merdeka No. 4 Salatiga, Nusa Tenggara Barat 86411",6,1999-10-02,Television floor manager,2025-02-14 20:58:07
+62,Prima Sitorus,9329481816185767,1943039005146820,"Jl. Rajawali Barat No. 27 Tangerang, Bali 66930",8,1985-07-07,Investment analyst,2025-02-14 20:58:07
+63,Purwanto Hastuti,8311109815755007,1353105753336741,"Jl. Ronggowarsito No. 2 Mataram, Sulawesi Utara 83641",5,1988-02-15,Learning mentor,2025-02-14 20:58:07
+64,"R.A. Umi Nugroho, M.TI.",5840057396743488,1033101347391437,"Jalan Cempaka No. 2 Tangerang, ST 47597",5,1994-02-25,Advice worker,2025-02-14 20:58:07
+65,Dalimin Gunawan,1612696593490024,8404845174823682,"Jl. Ahmad Yani No. 84 Ambon, SU 35953",7,1953-05-28,Make,2025-02-14 20:58:07
+66,Hendra Ardianto,9687009626223745,7701500293637446,"Gang Dr. Djunjunan No. 144 Kendari, GO 05283",8,1976-07-02,"Pharmacist, community",2025-02-14 20:58:07
+67,"Eli Permata, M.M.",2437934015765388,7451485496531135,"Jalan Abdul Muis No. 78 Sorong, Kalimantan Barat 44617",4,1987-01-01,"Education officer, museum",2025-02-14 20:58:07
+68,R.M. Mustika Susanti,4616533135262886,7323714733699695,"Gang Pasir Koja No. 88 Tangerang Selatan, SR 75109",4,1997-09-16,Environmental consultant,2025-02-14 20:58:07
+69,Aisyah Lailasari,9467967487041410,5802012467220298,"Gang Cikutra Timur No. 4 Gorontalo, Papua Barat 82969",7,1948-06-14,Film/video editor,2025-02-14 20:58:07
+70,"Hj. Ida Salahudin, M.M.",6986626935926782,2085121962081798,"Gg. Sukajadi No. 980 Pasuruan, NT 74884",9,1947-02-22,Licensed conveyancer,2025-02-14 20:58:07
+71,"Setya Anggraini, S.Sos",2773447661775824,4437485523949590,"Gang Ahmad Yani No. 2 Banjarbaru, Sulawesi Barat 54624",7,1992-01-06,Leisure centre manager,2025-02-14 20:58:07
+72,KH. Galiono Pertiwi,6011982095298991,3348644672899327,"Gang Moch. Toha No. 9 Lhokseumawe, MU 65319",2,1976-10-14,Information officer,2025-02-14 20:58:07
+73,Tiara Ramadan,352019057498571,3370959385787359,"Jl. Abdul Muis No. 381 Madiun, KI 95514",4,1958-03-30,Chartered public finance accountant,2025-02-14 20:58:07
+74,"Anom Pradipta, S.Farm",6598695938568796,2204640689833146,"Gang Sukajadi No. 856 Probolinggo, PB 40285",4,1998-07-24,Investment analyst,2025-02-14 20:58:07
+75,"Surya Rahimah, S.I.Kom",7617539882585291,9676156201360727,"Gang Ronggowarsito No. 199 Bogor, JA 33209",5,1978-12-28,"Engineer, drilling",2025-02-14 20:58:07
+76,Kasusra Rahayu,2612187705413851,8472696564582001,"Jalan M.H Thamrin No. 633 Pagaralam, KB 17278",2,1976-01-09,Travel agency manager,2025-02-14 20:58:07
+77,Winda Salahudin,2544579417344650,9926428282286989,"Gg. Pasteur No. 189 Cirebon, KR 77361",1,1998-10-09,"Therapist, speech and language",2025-02-14 20:58:07
+78,"R.M. Jaiman Narpati, S.IP",8151597776418344,9360442701316380,"Jalan Abdul Muis No. 70 Palopo, Banten 40127",4,1962-07-14,"Journalist, magazine",2025-02-14 20:58:07
+79,Anom Yuniar,4893797790999457,1932608553023331,"Gang Laswi No. 52 Kota Administrasi Jakarta Selatan, Maluku Utara 05960",9,1984-06-30,Adult nurse,2025-02-14 20:58:07
+80,Galur Marpaung,7232174327684768,6210052558791720,"Gang Cihampelas No. 7 Gorontalo, Sulawesi Utara 46270",6,1949-06-11,Food technologist,2025-02-14 20:58:07
+81,Rina Napitupulu,1926306386399287,5012259776694748,"Gg. Dipatiukur No. 17 Cirebon, Jawa Timur 67930",1,1953-03-03,"Designer, fashion/clothing",2025-02-14 20:58:07
+82,R. Sadina Wahyuni,8959742562907861,9173097186618726,"Gang S. Parman No. 94 Kediri, SB 10036",4,1971-07-08,Theatre manager,2025-02-14 20:58:07
+83,Gatra Mahendra,9118963582965158,8223106587949977,"Jalan Suniaraja No. 60 Ambon, Sulawesi Utara 94824",3,1959-10-28,Personal assistant,2025-02-14 20:58:07
+84,Rahmi Andriani,4530087730456639,551876208800882,"Gg. Pasir Koja No. 9 Magelang, PB 32474",2,1961-03-09,Printmaker,2025-02-14 20:58:07
+85,Cager Hakim,6242611630042248,1380226995613064,"Jl. Jamika No. 593 Jayapura, LA 69564",5,1982-03-15,Proofreader,2025-02-14 20:58:07
+86,Farhunnisa Prasetyo,8208782346128554,2062709652996993,"Gg. Waringin No. 2 Tegal, SU 39033",1,1963-02-09,Product designer,2025-02-14 20:58:07
+87,Puti Fathonah Hidayanto,2579771152115863,7347604012035437,"Jalan Gardujati No. 2 Meulaboh, SU 75681",2,1954-10-28,Production engineer,2025-02-14 20:58:07
+88,Lalita Purwanti,8516411026862119,7018481897873163,"Gang S. Parman No. 42 Tomohon, Sumatera Utara 75914",6,1981-08-11,Housing manager/officer,2025-02-14 20:58:07
+89,Jaeman Pangestu,9068004251984959,3259808021552744,"Jalan Bangka Raya No. 3 Probolinggo, JK 81025",5,1955-04-17,Politician's assistant,2025-02-14 20:58:07
+90,Ihsan Pangestu,1661394465141652,3030515804974310,"Gang Surapati No. 2 Samarinda, DI Yogyakarta 90670",5,1978-06-27,Theatre director,2025-02-14 20:58:07
+91,drg. Siska Namaga,6024625624990337,2134287078356349,"Gg. Surapati No. 24 Cimahi, Sumatera Utara 38215",2,1970-10-29,"Surveyor, rural practice",2025-02-14 20:58:07
+92,Rika Lailasari,8718908502307300,593713576799478,"Jl. Pasteur No. 066 Samarinda, KB 32339",3,1966-05-13,"Scientist, audiological",2025-02-14 20:58:07
+93,"drg. Zulfa Ramadan, S.I.Kom",8539468290021432,4094247705232916,"Jl. Sadang Serang No. 696 Bengkulu, SU 72669",3,1952-04-12,Ceramics designer,2025-02-14 20:58:07
+94,"Raharja Namaga, M.Ak",9233193887214163,8160494286092412,"Jalan Merdeka No. 16 Bima, Sulawesi Tenggara 57688",9,1945-04-30,Medical technical officer,2025-02-14 20:58:07
+95,Adiarja Dongoran,8217929117412315,4289996120654065,"Gg. Sukajadi No. 11 Surabaya, RI 33009",9,1974-03-08,Tax inspector,2025-02-14 20:58:07
+96,"R. Taswir Kusumo, M.Pd",7921113876208835,4726745860858557,"Jl. Kutisari Selatan No. 536 Tebingtinggi, Bengkulu 46617",5,1981-11-26,"Surveyor, mining",2025-02-14 20:58:07
+97,Zelda Hassanah,6952602683506874,3069427587949535,"Jalan Siliwangi No. 70 Tegal, Sumatera Selatan 62541",1,1986-02-26,Osteopath,2025-02-14 20:58:07
+98,Zamira Laksmiwati,8059778818142651,6819104998052740,"Gg. Asia Afrika No. 113 Mojokerto, RI 32544",5,1988-09-29,"Scientist, research (medical)",2025-02-14 20:58:07
+99,R. Salwa Haryanti,2629222490718181,4020165469576962,"Gang Stasiun Wonokromo No. 06 Tanjungbalai, RI 27964",4,1986-08-24,Press sub,2025-02-14 20:58:07
+100,"Dr. Lanjar Farida, S.H.",851615575146661,7601840673194282,"Gg. Rajawali Timur No. 785 Tomohon, Kalimantan Barat 72158",7,1993-10-30,Environmental consultant,2025-02-14 20:58:07
