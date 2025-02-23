@@ -72,6 +72,13 @@
                 </li>
 
                 <li class="nav-item">
+                    <a href="transfer_response.php" class="nav-link">
+                        <i class="nav-icon fas fa-rss"></i>
+                        <p>Transfer Response</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
                     <a href="app_log.php" class="nav-link">
                         <i class="nav-icon fas fa-file-code	"></i>
                         <p>Log Aplikasi</p>

@@ -6,9 +6,8 @@ require '../Database/config.php';
 $query = "SELECT * FROM app_log ORDER BY date DESC";
 $result = mysqli_query($conn, $query);
 
-// Periksa apakah query berhasil
 if (!$result) {
-    die("Error Query: " . mysqli_error($conn)); // Debugging jika query gagal
+    die("Error Query: " . mysqli_error($conn));
 }
 
 $log_text = "";
@@ -16,10 +15,35 @@ while ($row = mysqli_fetch_assoc($result)) {
     $log_text .= date('d-m-Y H:i:s', strtotime($row['date'])) . " [" . $row['user'] . "] " . $row['events'] . "\n";
 }
 
-// Jika tidak ada log
 if (empty($log_text)) {
     $log_text = "Belum ada log aktivitas.";
 }
+
+// Cek status HTTP server
+function checkHttpStatus($url) {
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_NOBODY, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+    curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+    return $http_code;
+}
+
+$server_url = "https://yourwebsite.com"; // Ganti dengan domain server
+$http_status = checkHttpStatus($server_url);
+
+// Cek ping server (hanya untuk sistem berbasis Linux)
+function getPing($host) {
+    $ping_result = exec("ping -c 1 " . escapeshellarg($host) . " | grep 'time='");
+    preg_match('/time=([\d.]+) ms/', $ping_result, $matches);
+    return isset($matches[1]) ? $matches[1] . " ms" : "Timeout";
+}
+
+$server_ping = getPing(parse_url($server_url, PHP_URL_HOST));
+
 ?>
 
 <!DOCTYPE html>
@@ -64,6 +88,18 @@ if (empty($log_text)) {
                                 <a href="export_log.php?type=pdf" class="btn btn-danger"><i class="fas fa-file-pdf"></i> Export PDF</a>
                             </div>
                         </div>
+
+                        <!-- STATUS KONEKSI -->
+                        <div class="card mt-4">
+                            <div class="card-header bg-info text-white">
+                                <h3 class="card-title"><i class="fas fa-signal"></i> Status Koneksi Server</h3>
+                            </div>
+                            <div class="card-body">
+                                <p><strong>HTTP Status:</strong> <span id="http_status"><?php echo $http_status; ?></span></p>
+                                <p><strong>Ping:</strong> <span id="server_ping"><?php echo $server_ping; ?></span></p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -78,5 +114,28 @@ if (empty($log_text)) {
 <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/plugins/jquery/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/js/adminlte.min.js"></script>
+
+<!-- AJAX untuk Update Status Koneksi -->
+<script>
+function updateConnectionStatus() {
+    $.ajax({
+        url: 'check_connection.php',
+        type: 'GET',
+        dataType: 'json',
+        success: function(response) {
+            $("#http_status").text(response.http_status);
+            $("#server_ping").text(response.server_ping);
+        },
+        error: function() {
+            $("#http_status").text("Error");
+            $("#server_ping").text("Error");
+        }
+    });
+}
+
+// Update setiap 1 menit
+setInterval(updateConnectionStatus, 60000);
+</script>
+
 </body>
 </html>
